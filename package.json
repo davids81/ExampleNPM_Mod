@@ -1,0 +1,15 @@
+{
+  "name": "unittesttest",
+  "version": "1.0.0",
+  "description": "testing mocha and chai out",
+  "main": "./unittesttest3/index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.0.2"
+  }
+}

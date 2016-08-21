@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+        "target": "es5",
+        "module": "commonjs",
+        "moduleResolution": "node",
+        "sourceRoot": "./src",
+        "sourceMap": true,
+        "outDir": "./unittesttest3",
+        "declaration":true
+    },
+    "exclude": [
+        "unittesttest3"
+    ]
+}
