@@ -3,12 +3,12 @@
         "target": "es5",
         "module": "commonjs",
         "moduleResolution": "node",
-        "sourceRoot": "./src",
         "sourceMap": true,
         "outDir": "./unittesttest3",
-        "declaration":true
+        "declaration": true
     },
     "exclude": [
-        "unittesttest3"
+        "./unittesttest3",
+        "./node_modules"
     ]
 }

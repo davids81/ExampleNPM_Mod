@@ -10,4 +10,3 @@ var Calculator = (function () {
     return Calculator;
 }());
 exports.Calculator = Calculator;
-//# sourceMappingURL=Calculator.js.map

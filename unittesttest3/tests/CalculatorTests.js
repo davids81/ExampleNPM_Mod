@@ -10,5 +10,8 @@ describe("Calculator tests", function () {
     it("Should be 3", function () {
         expect(calc.AddTwoNumbers()).to.equal(3);
     });
+    it('Should not be 4', function () {
+        expect(calc.AddTwoNumbers()).to.not.equal(4);
+    });
 });
-//# sourceMappingURL=CalculatorTests.js.map
+// this is only a test

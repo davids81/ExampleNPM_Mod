@@ -1,5 +1,4 @@
 
-
 export class Calculator {
 
     _left: number;
